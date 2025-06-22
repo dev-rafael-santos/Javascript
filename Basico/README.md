@@ -8,19 +8,27 @@ Abra o arquivo `index.html` na pasta do desafio que gostaria de testar e abra no
 
 ## 🧩 Lista de Desafios
 
-- Saudação
-- Verificação de idade
-- Calculadora
-- Par/Ímpar
-- Adivinhação
-- Tabuada
-- Caixa eletrônico
-- Verificação de primos
-- Fatorial
-- Média, maior, menor
-- Cadastro de usuários
-- Jogo de dados
-- E mais...
+- 1 - Saudação
+- 2 - Verificação de idade
+- 3 - Soma dois números
+- 4 - Par/Ímpar
+- 5 - Mini Calculadora
+- 6 - Adivinhação
+- 7 - Tabuada
+- 8 - Contagem Par e ìmpar
+- 9 -  Verificação de primos
+- 10 - Fatorial
+- 11 - Média, maior, menor
+- 12 - Saque
+- 13 - Caixa eletrônico
+- 14 - Palíndromo
+- 15 - Vogais e Consoantes
+- 16 - Verificar número perfeito
+- 17 - Temperatura
+- 18 - Inverter texto digitado
+- 19 - Contador regressivo
+- 20 - Jogo de dados
+
 
 ## 👨‍💻 Tecnologias
 
